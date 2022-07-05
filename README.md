@@ -1,0 +1,2 @@
+# Unity-Game-Feature-Testing
+Various features that I want to try create are in this project. Endless voxel terrain (similar to minecraft), simple player movement controller and an Inventory System are the three features added so far. README.txt has information needed in order to navigate the various features but I am working on this whenever I get the inspiration for a new feature so may be out of date.
